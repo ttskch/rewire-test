@@ -1,0 +1,23 @@
+{
+  "name": "rewire-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttskch/rewire-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttskch/rewire-test/issues"
+  },
+  "homepage": "https://github.com/ttskch/rewire-test#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "rewire": "^2.5.2"
+  }
+}
